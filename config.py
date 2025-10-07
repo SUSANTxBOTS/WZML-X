@@ -3,7 +3,7 @@ BOT_TOKEN = "7870968163:AAFM2seQE1FikM6H20WViHZVbyteCqA7h6k"
 OWNER_ID = 8156708830
 TELEGRAM_API = 21134445
 TELEGRAM_HASH = "231c18ea7273824491d6bf05425ab74e"
-DATABASE_URL = "mongodb+srv://susantpc1232_db_user:MsGk2PTlLnzhh2VQ@cluster0.uqxwqld.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+DATABASE_URL = "mongodb+srv://herukosupplier_db_user:ZwLZCi4O46uic1Wv@cluster0.k0d7xeb.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
 # OPTIONAL CONFIG
 DEFAULT_LANG = "en"
