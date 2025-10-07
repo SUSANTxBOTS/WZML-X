@@ -1,9 +1,9 @@
 # REQUIRED CONFIG
 BOT_TOKEN = ""
-OWNER_ID = 0
-TELEGRAM_API = 0
-TELEGRAM_HASH = ""
-DATABASE_URL = ""
+OWNER_ID = 8156708830
+TELEGRAM_API = 21134445
+TELEGRAM_HASH = "231c18ea7273824491d6bf05425ab74e"
+DATABASE_URL = "mongodb+srv://susantpc1232_db_user:MsGk2PTlLnzhh2VQ@cluster0.uqxwqld.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
 # OPTIONAL CONFIG
 DEFAULT_LANG = "en"
@@ -12,8 +12,8 @@ TG_PROXY = (
 )  # {"scheme": ”socks5”, "hostname": ””, "port": 1234, "username": ”user”, "password": ”pass”}
 USER_SESSION_STRING = ""
 CMD_SUFFIX = ""
-AUTHORIZED_CHATS = ""
-SUDO_USERS = ""
+AUTHORIZED_CHATS = "-1002831437619"
+SUDO_USERS = "7125448912"
 STATUS_LIMIT = 10
 DEFAULT_UPLOAD = "rc"
 STATUS_UPDATE_INTERVAL = 15
@@ -31,8 +31,8 @@ UPLOAD_PATHS = {}
 HELPER_TOKENS = ""
 
 # MegaAPI v4.30
-MEGA_EMAIL = ""
-MEGA_PASSWORD = ""
+MEGA_EMAIL = "SusantxBotz@gmail.com"
+MEGA_PASSWORD = "SUSANTA@123256"
 
 # Disable Options
 DISABLE_TORRENTS = False
@@ -43,8 +43,8 @@ DISABLE_SEED = False
 DISABLE_FF_MODE = False
 
 # Telegraph
-AUTHOR_NAME = "WZML-X"
-AUTHOR_URL = "https://t.me/WZML_X"
+AUTHOR_NAME = "𝘼𝙠𝙖𝙞𝙧𝙤"
+AUTHOR_URL = "https://t.me/xAkairo"
 
 # Task Limits
 DIRECT_LIMIT = 0
@@ -102,14 +102,14 @@ SET_COMMANDS = True
 TIMEZONE = "Asia/Kolkata"
 
 # GDrive Tools
-GDRIVE_ID = ""
-GD_DESP = "Uploaded with WZ Bot"
+GDRIVE_ID = "100pCdyinzdBY-VL7ZiL7tOE6q91qxtIM"
+GD_DESP = "Uploaded with  𝑨𝒌𝒂𝒊𝒓𝒐 Bot"
 IS_TEAM_DRIVE = False
 STOP_DUPLICATE = False
 INDEX_URL = ""
 
 # YT Tools
-YT_DESP = "Uploaded to YouTube by WZML-X bot"
+YT_DESP = "Uploaded to YouTube by  𝑨𝒌𝒂𝒊𝒓𝒐 bot"
 YT_TAGS = ["telegram", "bot", "youtube"]  # or as a comma-separated string
 YT_CATEGORY_ID = 22
 YT_PRIVACY_STATUS = "unlisted"
@@ -168,9 +168,9 @@ LEECH_CAPTION = ""
 THUMBNAIL_LAYOUT = ""
 
 # Log Channels
-LEECH_DUMP_CHAT = ""
-LINKS_LOG_ID = ""
-MIRROR_LOG_ID = ""
+LEECH_DUMP_CHAT = "-1002549945814"
+LINKS_LOG_ID = "-1002549945814"
+MIRROR_LOG_ID = "-1002549945814"
 
 # qBittorrent/Aria2c
 TORRENT_TIMEOUT = 0
