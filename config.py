@@ -20,7 +20,7 @@ STATUS_UPDATE_INTERVAL = 15
 FILELION_API = ""
 STREAMWISH_API = ""
 EXCLUDED_EXTENSIONS = ""
-INCOMPLETE_TASK_NOTIFIER = False
+INCOMPLETE_TASK_NOTIFIER = True
 YT_DLP_OPTIONS = ""
 USE_SERVICE_ACCOUNTS = False
 NAME_SWAP = ""
@@ -86,7 +86,7 @@ IMDB_TEMPLATE = """<b>Title: </b> {title} [{year}]
 # Task Tools
 FORCE_SUB_IDS = ""
 MEDIA_STORE = True
-DELETE_LINKS = False
+DELETE_LINKS = True
 CLEAN_LOG_MSG = False
 
 # Limiters
@@ -97,7 +97,7 @@ VERIFY_TIMEOUT = 0
 LOGIN_PASS = ""
 
 # Bot Settings
-BOT_PM = False
+BOT_PM = True
 SET_COMMANDS = True
 TIMEZONE = "Asia/Kolkata"
 
